@@ -1,5 +1,6 @@
 body {
   background-color: #dcedc1;
+  font-family: arial;
 }
 
 hr {
@@ -24,3 +25,30 @@ h2 {
 h3 {
   color: #66BFBF;
 }
+
+
+
+/**************************TAG SELECTION**********************/
+
+
+
+.bacon1:hover {
+  color: black;
+}
+
+img:hover {
+  background-color: gold;
+}
+
+
+/**************************SELECTOR SELECTION**********************/
+
+.bacon {
+  background-color: green;
+}
+
+.broccoli {
+  background-color: red;
+}
+
+/**************************ID SELECTION**********************/
