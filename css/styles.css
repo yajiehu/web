@@ -1,0 +1,121 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+hr {
+  color: #EAF6F6;
+  
+}
+
+h1 {
+  margin-top: 50px 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5rem;
+  color: #66BFBF;
+}
+
+.smallheading {
+  font-size: 1rem;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  color: #66BFBF;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+.introduction {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  margin-left: 500px;
+  margin-right: 500px;
+}
+
+.profile {
+  padding-top: 120px;
+  padding-bottom: 120px;
+}
+
+.top-container {
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 100px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 200px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.language {
+  width: 25%;
+  float: left;
+  margin-right: 80px;
+}
+
+.web {
+  width: 25%;
+  float: right;
+  margin-left: 80px;
+}
+
+.chinese {
+  width: 5%;
+}
+
+.english {
+  width: 5%;
+}
+
+.italian {
+  width: 5%;
+}
+
+/* HACK: button */
+.button-contactme {
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   color: #000000;
+   font-family: Verdana;
+   font-size: 15px;
+   font-weight: 100;
+   padding: 12px;
+   background-color: #66BFBF;
+   border: solid #FFFFFF 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.button-contactme:hover {
+   background: #FDD067;
+   border: solid #337FED 1px;
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
+
+/* HACK: button */
